@@ -1,0 +1,136 @@
+div#header {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: darkgray;
+    color: #fff;
+    padding: 2px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+div#footer {
+    background-color: #1f1c1c;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    color: azure;
+    margin-top: 30px;
+}
+
+div#contentId {
+    background-color: aliceblue ;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: xxx-large;
+    color: aliceblue;
+}
+input[type="text"] {
+    padding: 10px 0px;
+    width: 100%;
+}
+
+input[type="password"] {
+    padding: 10px 0px;
+    width: 100%;
+}
+input[type="submit"] {
+    padding: 10px 0px;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: cornflowerblue;
+    cursor: pointer;
+}
+div#loginBox {
+    background-color: #eab9b9;
+    width: 360px;
+    margin: auto;
+    padding: 10px;
+    border: 2px solid tomato;
+}
+
+img {
+    width: 135px;
+    border-radius: 50px;
+    position: left;
+    display: list-item;
+    margin-left: 63px;
+}
+
+#profile h2{
+    text-align: left;
+    
+    margin-left: 80px;
+
+}
+
+#menuId{
+    text-align: right;
+    text-transform: capitalize;
+    padding: 5px;
+    margin-right: 20px;
+    
+}
+
+#menuId a{
+    margin-left: 5px;
+}
+    
+    
+div#signupBox {
+    width: 508px;
+    background-color: darkgray;
+    
+    
+    padding: 20px;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 35px;
+}
+
+form#formId {
+    padding: 10px;
+    border: 1px solid #9e8884;
+    background-color: #928585;
+}
+input[type="text"] {
+    padding: 10px 0px;
+    width: 100%;
+}
+
+div#signupBox input[type="text"] {
+    padding: 10px 0px;
+    width: 173%;
+}
+td.label {
+    font-weight: bold;
+    font-size: x-large;
+    color: cornsilk;
+    float: left;
+    width: 100%;
+  
+}
+
+tr#row {
+    float: left;
+    width: 100%;
+    padding: 8px;
+}
+
+div#signupBox input[type="submit"] {
+    width: 176px;
+    color: green;
+    border: none;
+    background-color: bisque;
+    margin-bottom: 12px;
+}
+div#signupBox input[type="submit"]:hover{
+    background-color: green;
+    color: white;
+    padding: 8px;
+    font-size: 15px;
+    transition: 1s all ease;
+}
